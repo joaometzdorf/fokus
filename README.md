@@ -6,7 +6,7 @@
 
 ### Screenshot
 
-![](./fokus)
+![](./fokus.png)
 
 ### Links
 
